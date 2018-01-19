@@ -223,12 +223,12 @@ header {
     display: none;
     text-align: right;
     width: 100%;
-    background: $heading;
+    background: $background-alt;
     font-size: 1.5em;
     padding-right: 15px;
     padding-top: 10px;
     cursor: pointer;
-    color: $base-color;
+    color: $heading;
 
     span {
         font-size: 0.5em;

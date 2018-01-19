@@ -160,12 +160,12 @@ header.sticky {
   display: none;
   text-align: right;
   width: 100%;
-  background: #212121;
+  background: #487749;
   font-size: 1.5em;
   padding-right: 15px;
   padding-top: 10px;
   cursor: pointer;
-  color: #212121;
+  color: #ffffff;
 }
 #mobile-menu-close span {
   font-size: 0.5em;
